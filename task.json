@@ -1,8 +1,26 @@
 [
-    {
-        "id":"1",
-        "description":"description de la recette",
-        "creation_date": "2026-09-25T08:30:50.037514",
-        "deadline": ""
-    }
+  {
+    "id": 1,
+    "description": "description de la recette",
+    "creation_date": "2026-09-25T08:30:50.037514",
+    "deadline": ""
+  },
+  {
+    "id": 2,
+    "description": "test description 2",
+    "creation_date": "2026-09-25T14:58:24.232516",
+    "deadLine": "tomorrow"
+  },
+  {
+    "id": 3,
+    "description": "test tache 3",
+    "creation_date": "2026-09-25T15:04:32.698911",
+    "deadLine": "tomorrow"
+  },
+  {
+    "id": 4,
+    "description": "test 4",
+    "creation_date": "2026-09-25T15:05:08.530834",
+    "deadLine": "tomorrow"
+  }
 ]
